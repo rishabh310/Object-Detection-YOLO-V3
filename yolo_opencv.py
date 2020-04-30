@@ -1,6 +1,6 @@
 #############################################
 # Object detection - YOLO - OpenCV
-# Author : Rishabh Mall   (January 16, 2018)
+# Author : Rishabh Mall   (January 16, 2019)
 ############################################
 
 
